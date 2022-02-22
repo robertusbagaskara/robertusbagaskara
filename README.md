@@ -1,7 +1,13 @@
-# Bonjour !!!  :panda_face:
+# Hello! :panda_face:
 
-My name is **Bagas**, currently live in Tangerang, Indonesia
+I'm **Bagas**, currently live in Tangerang, Indonesia
 
-[![Github](https://img.shields.io/github/followers/robertusbagaskara?label=Follow&style=social)](https://github.com/robertusbagaskara) 
+### [![Github](https://img.shields.io/github/followers/robertusbagaskara?label=Follow&style=social&logoColor=darkgreen)](https://github.com/robertusbagaskara)
 
-### :book: :headphones: :video_game:  
+:book: + :computer: + :headphones: + :video_game: + :coffee: 
+
+# Reach me on :mag_right:
+[![GitHub](https://img.shields.io/badge/-Github-darkgreen?style=flat&logo=Github&logoColor=white)](https://github.com/robertusbagaskara)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkgreen?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robertusbagaskara/)
+[![Gmail](https://img.shields.io/badge/-Gmail-darkgreen?style=flat&logo=Gmail&logoColor=white)](mailto:robertusbagaskara@gmail.com)
+ 
