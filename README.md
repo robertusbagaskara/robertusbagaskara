@@ -1,4 +1,4 @@
-# Hello! :panda_face:
+# Hello! :slightly_smiling_face:
 
 I'm **Bagas**, currently live in Tangerang, Indonesia
 
