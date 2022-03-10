@@ -1,6 +1,6 @@
 # Hello! :slightly_smiling_face:
 
-I'm **Bagas**, currently live in Tangerang, Indonesia
+You can call me **Bagas** or **Koro**, currently live in Tangerang, Indonesia (for some reason)
 
 ### [![Github](https://img.shields.io/github/followers/robertusbagaskara?label=Follow&style=social&logoColor=darkgreen)](https://github.com/robertusbagaskara)
 
