@@ -1,6 +1,6 @@
-# Hello! :slightly_smiling_face:
+# Hello visitor! :slightly_smiling_face:
 
-You can call me **Bagas** or **Koro**, I have a background on IT and on progress to learning business and economy.
+You can call me **Bagas** or **Koro**, and this is my repository. 
 
 ### [![Github](https://img.shields.io/github/followers/robertusbagaskara?label=Follow&style=social&logoColor=darkgreen)](https://github.com/robertusbagaskara)
 
